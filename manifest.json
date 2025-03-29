@@ -1,7 +1,8 @@
 {
-    "name": "My PWA",
-    "short_name": "PWA",
-    "start_url": "/index.html",
+    "name": "PWA Alarm",
+    "short_name": "alarm",
+    "id": "/alarm/",
+    "start_url": "/alarm",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
