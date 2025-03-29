@@ -1,0 +1,134 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# SASS
+.sass-cache/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.history/
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build directories
+build/
+dist/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Miscellaneous
+*.log
+*.lock
+*.cache
+*.tmp
+
+# IDEs
+.idea/
+.project/
+.classpath/
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# GitHub Pages
+/.cache
+/.next
+.out
+public/
+
+# Temporary files
+tmp/
+temp/
+
+# Compiled source
+*.out
+*.o
+*.bin
+*.dll
+*.exe
+*.class
+*.pyc
+*.pyo
+*.pyd
+
+# Compiled JavaScript
+*.min.js
+*.min.css
+
+# Static site generators
+.cache
+public
+
+# Optional npm or yarn local cache
+.npm/
+.yarn/
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.development
+.env.production
+.env.local
+
+# Next.js build output
+.next
+
+# Nuxt.js build output
+.nuxt
